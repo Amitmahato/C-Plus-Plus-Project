@@ -1,0 +1,27 @@
+﻿  menu.cpp
+c:\users\user\desktop\new folder\projectxxx\projectxxx\players.h(63): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+c:\users\user\desktop\new folder\projectxxx\projectxxx\players.h(63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\user\desktop\new folder\projectxxx\projectxxx\arrow.h(51): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\desktop\new folder\projectxxx\projectxxx\arrow.h(65): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\desktop\new folder\projectxxx\projectxxx\background.h(44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\user\desktop\new folder\projectxxx\projectxxx\background.h(45): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\user\desktop\new folder\projectxxx\projectxxx\background.h(46): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\user\desktop\new folder\projectxxx\projectxxx\bubble.h(13): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\user\desktop\new folder\projectxxx\projectxxx\bubble.h(14): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\user\desktop\new folder\projectxxx\projectxxx\bubble.h(28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\user\desktop\new folder\projectxxx\projectxxx\bubble.h(50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\user\desktop\new folder\projectxxx\projectxxx\retry.h(42): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\user\desktop\new folder\projectxxx\projectxxx\retry.h(49): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\user\desktop\new folder\projectxxx\projectxxx\retry.h(57): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\user\desktop\new folder\projectxxx\projectxxx\retry.h(74): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\user\desktop\new folder\projectxxx\projectxxx\game.h(100): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\user\desktop\new folder\projectxxx\projectxxx\menu.cpp(30): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\user\desktop\new folder\projectxxx\projectxxx\menu.cpp(36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\user\desktop\new folder\projectxxx\projectxxx\menu.cpp(42): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\user\desktop\new folder\projectxxx\projectxxx\menu.cpp(48): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\user\desktop\new folder\projectxxx\projectxxx\menu.cpp(54): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\user\desktop\new folder\projectxxx\projectxxx\menu.cpp(63): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  Source.cpp
+  Projectxxx.vcxproj -> C:\Users\User\Desktop\New folder\Projectxxx\Debug\Projectxxx.exe

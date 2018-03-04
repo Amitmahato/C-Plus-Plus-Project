@@ -1,0 +1,45 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Projectxxx.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Source.cpp
+f:\all year reports and projects\3rd sem\c++ project\bubble trouble\bubble trouble\source.cpp(11): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+  setting.cpp
+f:\all year reports and projects\3rd sem\c++ project\bubble trouble\bubble trouble\setting.cpp(14): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+f:\all year reports and projects\3rd sem\c++ project\bubble trouble\bubble trouble\setting.cpp(22): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+f:\all year reports and projects\3rd sem\c++ project\bubble trouble\bubble trouble\setting.cpp(41): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+  menu.cpp
+f:\all year reports and projects\3rd sem\c++ project\bubble trouble\bubble trouble\players.h(63): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+f:\all year reports and projects\3rd sem\c++ project\bubble trouble\bubble trouble\players.h(63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+f:\all year reports and projects\3rd sem\c++ project\bubble trouble\bubble trouble\arrow.h(51): warning C4018: '<': signed/unsigned mismatch
+f:\all year reports and projects\3rd sem\c++ project\bubble trouble\bubble trouble\arrow.h(65): warning C4018: '<': signed/unsigned mismatch
+f:\all year reports and projects\3rd sem\c++ project\bubble trouble\bubble trouble\background.h(44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\all year reports and projects\3rd sem\c++ project\bubble trouble\bubble trouble\background.h(45): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\all year reports and projects\3rd sem\c++ project\bubble trouble\bubble trouble\background.h(46): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+f:\all year reports and projects\3rd sem\c++ project\bubble trouble\bubble trouble\bubble.h(13): warning C4305: 'initializing': truncation from 'double' to 'float'
+f:\all year reports and projects\3rd sem\c++ project\bubble trouble\bubble trouble\bubble.h(14): warning C4305: 'initializing': truncation from 'double' to 'float'
+f:\all year reports and projects\3rd sem\c++ project\bubble trouble\bubble trouble\bubble.h(28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+f:\all year reports and projects\3rd sem\c++ project\bubble trouble\bubble trouble\bubble.h(50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+f:\all year reports and projects\3rd sem\c++ project\bubble trouble\bubble trouble\retry.h(42): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+f:\all year reports and projects\3rd sem\c++ project\bubble trouble\bubble trouble\retry.h(49): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+f:\all year reports and projects\3rd sem\c++ project\bubble trouble\bubble trouble\retry.h(57): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+f:\all year reports and projects\3rd sem\c++ project\bubble trouble\bubble trouble\retry.h(74): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+f:\all year reports and projects\3rd sem\c++ project\bubble trouble\bubble trouble\game.h(100): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+f:\all year reports and projects\3rd sem\c++ project\bubble trouble\bubble trouble\menu.cpp(30): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+f:\all year reports and projects\3rd sem\c++ project\bubble trouble\bubble trouble\menu.cpp(36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+f:\all year reports and projects\3rd sem\c++ project\bubble trouble\bubble trouble\menu.cpp(42): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+f:\all year reports and projects\3rd sem\c++ project\bubble trouble\bubble trouble\menu.cpp(48): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+f:\all year reports and projects\3rd sem\c++ project\bubble trouble\bubble trouble\menu.cpp(54): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+f:\all year reports and projects\3rd sem\c++ project\bubble trouble\bubble trouble\menu.cpp(63): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  exit.cpp
+f:\all year reports and projects\3rd sem\c++ project\bubble trouble\bubble trouble\exit.cpp(14): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+f:\all year reports and projects\3rd sem\c++ project\bubble trouble\bubble trouble\exit.cpp(21): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+f:\all year reports and projects\3rd sem\c++ project\bubble trouble\bubble trouble\exit.cpp(29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+f:\all year reports and projects\3rd sem\c++ project\bubble trouble\bubble trouble\exit.cpp(46): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+  collision.cpp
+f:\all year reports and projects\3rd sem\c++ project\bubble trouble\bubble trouble\collision.cpp(66): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+f:\all year reports and projects\3rd sem\c++ project\bubble trouble\bubble trouble\collision.cpp(67): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+f:\all year reports and projects\3rd sem\c++ project\bubble trouble\bubble trouble\collision.cpp(69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+f:\all year reports and projects\3rd sem\c++ project\bubble trouble\bubble trouble\collision.cpp(70): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+f:\all year reports and projects\3rd sem\c++ project\bubble trouble\bubble trouble\collision.cpp(132): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+f:\all year reports and projects\3rd sem\c++ project\bubble trouble\bubble trouble\collision.cpp(133): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+f:\all year reports and projects\3rd sem\c++ project\bubble trouble\bubble trouble\collision.cpp(134): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  Bubble Trouble.vcxproj -> F:\All year reports and projects\3rd sem\C++ Project\Bubble Trouble\Debug\Bubble Trouble.exe
